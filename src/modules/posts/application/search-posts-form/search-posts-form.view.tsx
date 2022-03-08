@@ -49,7 +49,7 @@ const SearchPostsFormView = ({ user_id }: SearchPostsFormViewProps) => {
 
 				<input
 					type="search"
-					placeholder="Search Posterr"
+					placeholder="Search Post"
 					{...register("query")}
 					className="bg-gray-800 h-10 px-10 pr-5 w-full text-sm focus:outline-none bg-purple-white shadow rounded border-0"
 				/>

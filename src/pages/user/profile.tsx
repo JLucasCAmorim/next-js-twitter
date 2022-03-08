@@ -126,7 +126,7 @@ const Profile: NextPage = () => {
 									{user?.username}
 								</h2>
 								<p className="mb-0 w-48 text-xs text-gray-400">
-									{`${userPosts.length} Posterrs`}
+									{`${userPosts.length} Posts`}
 								</p>
 							</div>
 						</div>
@@ -161,7 +161,7 @@ const Profile: NextPage = () => {
 						<div className="flex-2">
 							<p className="text-sm leading-6 font-medium text-gray-600">
 								{" "}
-								© 2020 Posterr, Inc.
+								© 2020 Post, Inc.
 							</p>
 						</div>
 					</div>
