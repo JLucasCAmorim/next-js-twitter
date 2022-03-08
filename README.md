@@ -30,8 +30,6 @@ jest
 
 ## Planning
 
-The Product Manager wants to implement a new feature called "reply-to-post" (it's a lot like Twitter's These are regular posts that use "@ mentioning" at the beginning to indicate that it is a reply directly to a post. Reply posts should only be shown in a new, secondary feed on the user profile called "Posts and Replies" where all original posts and reply posts are shown. They should not be shown in the homepage feed.
-
 Write down questions you have for the Product Manager about implementation.
 
 -   The number of characters in each response remains the same?
@@ -56,10 +54,6 @@ Write about how you would solve this problem in as much detail as possible. Writ
 -   We also need to change the search method to include the reply-to-post.
 
 ## Critique
-
-In any project, it is always a challenge to get the code perfectly how you'd want it. Here is what you need to do for this section:
-
-Reflect on this project, and write what you would improve if you had more time.
 
 Write about scaling. If this project were to grow and have many users and posts, which parts do you think would fail first? In a real-life situation, what steps would you take to scale this product? What other types of technology and infrastructure might you need to use?
 
