@@ -138,7 +138,7 @@ const Home: NextPage = () => {
 						<div className="flex-2">
 							<p className="text-sm leading-6 font-medium text-gray-600">
 								{" "}
-								© 2020 Posterr, Inc.
+								© 2020 Post, Inc.
 							</p>
 						</div>
 					</div>
